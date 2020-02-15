@@ -1,4 +1,4 @@
-# exec(open('test_vk_api.py').read())
+# exec(open('get_friends_of_friends.py').read())
 
 # Gets friends of friends of some user and saves them to json.
 # Additionally calculates the ratio of friends number of current user
